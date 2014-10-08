@@ -1,0 +1,19 @@
+.body {
+ background-color:#efefef;
+}
+
+.div-center {
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-top:-50px;
+  margin-left:-50px;
+}
+
+.normal-font {
+  font-family: 'Raleway', sans-serif;
+}
+
+.name {
+  margin-left:-38px;
+}
