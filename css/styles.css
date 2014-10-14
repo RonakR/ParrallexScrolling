@@ -1,5 +1,8 @@
 .body {
  background-color:#efefef;
+  /*background: url(../img/home.jpg) 50% 40% no-repeat;*/
+  background-size: cover;
+  min-height: 1000px;
 }
 
 .div-center {
@@ -16,4 +19,29 @@
 
 .name {
   margin-left:-38px;
+}
+
+#home {
+  background: #efefef;
+  height: 1000px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative;
+}
+
+#home #name {
+  height: 485px;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: 100%;
+}
+
+#home #soon {
+  height: 485px;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: 100%;
 }
